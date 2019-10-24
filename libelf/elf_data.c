@@ -39,7 +39,8 @@ elf_getdata(Elf_Scn *s, Elf_Data *ed)
 {
 	Elf *e;
 	unsigned int sh_type;
-	int elfclass, elftype;
+	int elfclass;
+	Elf_Type elftype;
 	size_t count, fsz, msz;
 	struct _Libelf_Data *d;
 	uint64_t sh_align, sh_offset, sh_size, raw_size;
@@ -93,7 +94,7 @@ elf_getdata(Elf_Scn *s, Elf_Data *ed)
 	}
 
 	raw_size = (uint64_t) e->e_rawsize;
-	if ((elftype = _libelf_xlate_shtype(sh_type)) < ELF_T_FIRST ||
+	if ((elftype = (Elf_Type)_libelf_xlate_shtype(sh_type)) < ELF_T_FIRST ||
 	    elftype > ELF_T_LAST || (sh_type != SHT_NOBITS &&
 	    (sh_offset > raw_size || sh_size > raw_size - sh_offset))) {
 		LIBELF_SET_ERROR(SECTION, 0);

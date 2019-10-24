@@ -112,7 +112,8 @@ _libelf_compute_section_extents(Elf *e, Elf_Scn *s, off_t rc)
 {
 	Elf_Data *d;
 	size_t fsz, msz;
-	int ec, elftype;
+	int ec;
+	Elf_Type elftype;
 	uint32_t sh_type;
 	uint64_t d_align;
 	Elf32_Shdr *shdr32;
@@ -141,7 +142,7 @@ _libelf_compute_section_extents(Elf *e, Elf_Scn *s, off_t rc)
 
 	assert(sh_type != SHT_NULL && sh_type != SHT_NOBITS);
 
-	elftype = _libelf_xlate_shtype(sh_type);
+	elftype = (Elf_Type)_libelf_xlate_shtype(sh_type);
 	if (elftype < ELF_T_FIRST || elftype > ELF_T_LAST) {
 		LIBELF_SET_ERROR(SECTION, 0);
 		return (0);
@@ -431,7 +432,7 @@ _libelf_insert_extent(struct _Elf_Extent_List *extents, int type,
 	ex->ex_start = start;
 	ex->ex_size = size;
 	ex->ex_desc = desc;
-	ex->ex_type = type;
+	ex->ex_type = (enum elf_extent)type;
 
 	/* Insert the region descriptor into the list. */
 	if (prevt)
@@ -721,7 +722,7 @@ _libelf_write_scn(Elf *e, unsigned char *nf, struct _Elf_Extent *ex)
 	off_t rc;
 	int ec, em;
 	Elf_Scn *s;
-	int elftype;
+	Elf_Type elftype;
 	Elf_Data *d, dst;
 	uint32_t sh_type;
 	struct _Libelf_Data *ld;
@@ -747,7 +748,7 @@ _libelf_write_scn(Elf *e, unsigned char *nf, struct _Elf_Extent *ex)
 	if (sh_type == SHT_NOBITS || sh_type == SHT_NULL || sh_size == 0)
 		return (rc);
 
-	elftype = _libelf_xlate_shtype(sh_type);
+	elftype = (Elf_Type)_libelf_xlate_shtype(sh_type);
 	assert(elftype >= ELF_T_FIRST && elftype <= ELF_T_LAST);
 
 	sh_off = s->s_offset;

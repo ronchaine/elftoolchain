@@ -29,7 +29,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: gelf_symshndx.c 3732 2019-04-22 11:08:38Z jkoshy $");
 
 GElf_Sym *
 gelf_getsymshndx(Elf_Data *d, Elf_Data *id, int ndx, GElf_Sym *dst,

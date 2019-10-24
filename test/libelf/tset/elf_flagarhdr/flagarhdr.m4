@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: flagarhdr.m4 2077 2011-10-27 03:59:40Z jkoshy $
  */
 
 #include <sys/types.h>

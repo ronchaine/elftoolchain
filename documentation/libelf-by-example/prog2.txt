@@ -1,7 +1,7 @@
 /*
  * Print the ELF Executable Header from an ELF object.
  *
- * $Id$
+ * $Id: prog2.txt 2133 2011-11-10 08:28:22Z jkoshy $
  */
 
 #include <err.h>

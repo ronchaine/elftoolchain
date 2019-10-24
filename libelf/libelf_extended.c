@@ -29,7 +29,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libelf_extended.c 3712 2019-03-16 22:23:34Z jkoshy $");
 
 /*
  * Retrieve section #0, allocating a new section if needed.

@@ -38,7 +38,7 @@
 
 #include "elfcopy.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: archive.c 3490 2016-08-31 00:12:22Z emaste $");
 
 #define _ARMAG_LEN 8		/* length of ar magic string */
 #define _ARHDR_LEN 60		/* length of ar header */

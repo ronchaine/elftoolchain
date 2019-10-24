@@ -27,7 +27,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_form.c 2073 2011-10-27 03:30:47Z jkoshy $");
 
 int
 dwarf_hasform(Dwarf_Attribute at, Dwarf_Half form, Dwarf_Bool *return_hasform,

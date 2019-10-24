@@ -32,7 +32,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: gelf_shdr.c 3177 2015-03-30 18:19:41Z emaste $");
 
 Elf32_Shdr *
 elf32_getshdr(Elf_Scn *s)

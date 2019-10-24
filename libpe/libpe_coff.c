@@ -34,7 +34,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libpe_coff.c 3326 2016-01-16 17:46:17Z kaiwang27 $");
 
 int
 libpe_parse_coff_header(PE *pe, char *hdr)

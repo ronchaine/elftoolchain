@@ -30,7 +30,7 @@
 #include "ld_exp.h"
 #include "ld_layout.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_exp.c 3278 2015-12-11 21:39:13Z kaiwang27 $");
 
 /*
  * Support routines for ldscript expression.

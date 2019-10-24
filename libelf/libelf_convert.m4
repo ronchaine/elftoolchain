@@ -30,7 +30,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libelf_convert.m4 3712 2019-03-16 22:23:34Z jkoshy $");
 
 /* WARNING: GENERATED FROM __file__. */
 

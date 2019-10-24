@@ -27,7 +27,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libdwarf_loc.c 3070 2014-06-23 03:08:33Z kaiwang27 $");
 
 /*
  * Given an array of bytes of length 'len' representing a

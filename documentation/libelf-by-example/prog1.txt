@@ -1,7 +1,7 @@
 /*
  * Getting started with libelf.
  *
- * $Id$
+ * $Id: prog1.txt 2133 2011-11-10 08:28:22Z jkoshy $
  */
 
 #include <err.h>

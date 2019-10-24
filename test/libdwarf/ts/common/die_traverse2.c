@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: die_traverse2.c 3076 2014-06-23 23:54:01Z kaiwang27 $
  */
 
 #include <assert.h>

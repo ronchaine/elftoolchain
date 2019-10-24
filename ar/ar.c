@@ -72,7 +72,7 @@
 
 #include "ar.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ar.c 3629 2018-09-30 19:26:28Z jkoshy $");
 
 enum options
 {

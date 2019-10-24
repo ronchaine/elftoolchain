@@ -27,7 +27,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libdwarf_rw.c 3286 2015-12-31 16:45:46Z emaste $");
 
 uint64_t
 _dwarf_read_lsb(uint8_t *data, uint64_t *offsetp, int bytes_to_read)

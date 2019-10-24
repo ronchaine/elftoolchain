@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: getdata.m4 3695 2019-02-25 18:55:07Z jkoshy $
  */
 
 #include <libelf.h>

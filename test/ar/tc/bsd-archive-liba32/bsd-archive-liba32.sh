@@ -1,4 +1,4 @@
-# $Id$
+# $Id: bsd-archive-liba32.sh 2078 2011-10-27 04:04:27Z jkoshy $
 if ! uname -m | grep -q 64; then
     inittest bsd-archive-liba32 tc/bsd-archive-liba32
     extshar ${TESTDIR}

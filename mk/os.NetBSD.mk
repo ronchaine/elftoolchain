@@ -1,4 +1,4 @@
-# $Id$
+# $Id: os.NetBSD.mk 2986 2014-03-06 03:29:12Z jkoshy $
 #
 # Build recipes for NetBSD.
 

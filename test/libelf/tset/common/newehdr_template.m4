@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: newehdr_template.m4 1376 2011-01-23 04:15:51Z jkoshy $
  */
 
 #include <stdlib.h>

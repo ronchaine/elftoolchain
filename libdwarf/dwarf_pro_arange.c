@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_pro_arange.c 2074 2011-10-27 03:34:33Z jkoshy $");
 
 Dwarf_Unsigned
 dwarf_add_arange(Dwarf_P_Debug dbg, Dwarf_Addr start, Dwarf_Unsigned length,

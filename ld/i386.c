@@ -34,7 +34,7 @@
 #include "ld_utils.h"
 #include "i386.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: i386.c 3419 2016-02-19 20:07:15Z emaste $");
 
 static void _create_plt_reloc(struct ld *ld, struct ld_symbol *lsb,
     uint64_t offset);

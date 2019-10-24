@@ -36,7 +36,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: elf_scn.c 3712 2019-03-16 22:23:34Z jkoshy $");
 
 /*
  * Load an ELF section table and create a list of Elf_Scn structures.

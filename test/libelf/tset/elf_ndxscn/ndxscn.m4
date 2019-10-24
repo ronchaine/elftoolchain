@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: ndxscn.m4 1415 2011-02-05 12:45:23Z jkoshy $
  */
 
 #include <ar.h>

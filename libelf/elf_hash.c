@@ -28,7 +28,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: elf_hash.c 3174 2015-03-27 17:13:41Z emaste $");
 
 /*
  * This elf_hash function is defined by the System V ABI.

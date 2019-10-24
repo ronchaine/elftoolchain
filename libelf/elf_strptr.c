@@ -31,7 +31,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: elf_strptr.c 2990 2014-03-17 09:56:58Z jkoshy $");
 
 /*
  * Convert an ELF section#,offset pair to a string pointer.

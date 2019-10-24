@@ -1,4 +1,4 @@
-# $Id$
+# $Id: optionl-liba.sh 2079 2011-10-27 04:10:55Z jkoshy $
 inittest optionl-liba tc/optionl-liba
 extshar ${TESTDIR}
 extshar ${RLTDIR}

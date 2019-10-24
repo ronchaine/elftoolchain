@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: ld_exp.h 2525 2012-07-17 17:36:19Z kaiwang27 $
  */
 
 enum ld_exp_op {

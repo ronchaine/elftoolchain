@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: libdwarf.h 3578 2017-09-14 02:21:28Z emaste $
  */
 
 #ifndef	_LIBDWARF_H_

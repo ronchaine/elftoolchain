@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: elfts-openfile.c 1192 2010-09-12 05:40:00Z jkoshy $
  */
 
 #include <errno.h>

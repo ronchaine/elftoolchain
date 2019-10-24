@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libdwarf_macinfo.c 2974 2013-12-23 06:46:22Z kaiwang27 $");
 
 #define	_FILEINDEX_STACK_SIZE	16384
 

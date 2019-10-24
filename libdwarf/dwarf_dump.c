@@ -27,7 +27,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_dump.c 3749 2019-06-28 01:10:44Z emaste $");
 
 int
 dwarf_get_ACCESS_name(unsigned access, const char **s)

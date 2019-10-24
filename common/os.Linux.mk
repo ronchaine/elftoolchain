@@ -1,7 +1,7 @@
 #
 # Build recipes for Linux based operating systems.
 #
-# $Id$
+# $Id: os.Linux.mk 3594 2018-04-11 18:26:50Z jkoshy $
 
 _NATIVE_ELF_FORMAT = native-elf-format
 

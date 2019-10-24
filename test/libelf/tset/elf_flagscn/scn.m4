@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: scn.m4 223 2008-08-10 15:40:06Z jkoshy $
  */
 
 #include <sys/types.h>

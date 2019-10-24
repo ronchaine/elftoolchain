@@ -40,7 +40,7 @@
 
 #include "ar.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: write.c 3629 2018-09-30 19:26:28Z jkoshy $");
 
 #define _ARMAG_LEN 8		/* length of the magic string */
 #define _ARHDR_LEN 60		/* length of the archive header */

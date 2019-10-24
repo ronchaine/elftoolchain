@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: _libelf.h 3738 2019-05-05 21:49:06Z jkoshy $
  */
 
 #ifndef	__LIBELF_H_

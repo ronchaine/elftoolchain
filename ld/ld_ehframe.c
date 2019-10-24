@@ -32,7 +32,7 @@
 #include "ld_reloc.h"
 #include "ld_utils.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_ehframe.c 2964 2013-09-10 02:46:06Z kaiwang27 $");
 
 struct ld_ehframe_cie {
 	uint64_t cie_off;	/* offset in section */

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: getident.m4 1694 2011-08-02 04:34:35Z jkoshy $
  */
 
 #include <ar.h>

@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $Id$
+# $Id: tcgen.sh 2082 2011-10-27 04:38:32Z jkoshy $
 
 # A script to generate test cases.
 

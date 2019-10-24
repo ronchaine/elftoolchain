@@ -32,7 +32,7 @@
 
 #include "_elftc.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: acplex.l 3174 2015-03-27 17:13:41Z emaste $");
 
 #include "acpyacc.h"
 

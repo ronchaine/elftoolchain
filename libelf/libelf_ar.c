@@ -33,7 +33,7 @@
 #include "_libelf.h"
 #include "_libelf_ar.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libelf_ar.c 3712 2019-03-16 22:23:34Z jkoshy $");
 
 #define	LIBELF_NALLOC_SIZE	16
 

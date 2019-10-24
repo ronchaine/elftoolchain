@@ -35,7 +35,7 @@
 
 #include <libelftc.h>
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: as.c 3581 2017-10-13 23:27:45Z emaste $");
 
 enum as_long_option_index {
 	AS_OPT_DEFSYM,

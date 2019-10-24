@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libdwarf_sections.c 3041 2014-05-18 15:11:03Z kaiwang27 $");
 
 #define	_SECTION_INIT_SIZE	128
 

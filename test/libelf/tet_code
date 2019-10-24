@@ -1,6 +1,6 @@
 # LibELF test suite.
 #
-# $Id$
+# $Id: tet_code 2055 2011-10-26 12:15:06Z jkoshy $
 
 # TET reserved codes
 0 "PASS"

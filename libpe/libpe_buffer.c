@@ -32,7 +32,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libpe_buffer.c 3312 2016-01-10 09:23:51Z kaiwang27 $");
 
 PE_SecBuf *
 libpe_alloc_buffer(PE_Scn *ps, size_t sz)

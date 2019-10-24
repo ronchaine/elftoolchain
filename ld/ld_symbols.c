@@ -34,7 +34,7 @@
 #include "ld_script.h"
 #include "ld_strtab.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_symbols.c 3281 2015-12-11 21:39:23Z kaiwang27 $");
 
 #define	_INIT_SYMTAB_SIZE	128
 

@@ -1,5 +1,5 @@
 %YAML 1.1
-# $Id$
+# $Id: newscn2.yaml 2077 2011-10-27 03:59:40Z jkoshy $
 #
 # This is the library-defined layout of the 'newscn' ELF object.
 ---

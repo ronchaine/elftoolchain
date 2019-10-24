@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.tset 3719 2019-03-23 08:30:55Z jkoshy $
 
 NM_EXEC?=	${.CURDIR}/../../../../nm/nm
 CSTD?=		iso9899:1999

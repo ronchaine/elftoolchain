@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $Id$
+# $Id: func.sh 2083 2011-10-27 04:41:39Z jkoshy $
 
 tpstart() # write test purpose banner and initialise variables
 {

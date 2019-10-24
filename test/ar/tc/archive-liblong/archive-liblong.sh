@@ -1,4 +1,4 @@
-# $Id$
+# $Id: archive-liblong.sh 2078 2011-10-27 04:04:27Z jkoshy $
 inittest archive-liblong tc/archive-liblong
 extshar ${TESTDIR}
 extshar ${RLTDIR}

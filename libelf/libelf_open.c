@@ -39,7 +39,7 @@
 #include <sys/mman.h>
 #endif
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libelf_open.c 3007 2014-03-22 08:10:14Z jkoshy $");
 
 #define	_LIBELF_INITSIZE	(64*1024)
 

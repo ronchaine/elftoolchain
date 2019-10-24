@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: update.m4 3081 2014-07-28 08:53:14Z jkoshy $
  */
 
 #include <sys/types.h>

@@ -1,4 +1,4 @@
-# $Id$
+# $Id: func.sh 3626 2018-09-29 19:26:57Z jkoshy $
 # `init' initializes test engine global data.
 #
 init() {

@@ -31,7 +31,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libelf_phdr.c 3732 2019-04-22 11:08:38Z jkoshy $");
 
 void *
 _libelf_getphdr(Elf *e, int ec)

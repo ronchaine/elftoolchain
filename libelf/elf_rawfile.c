@@ -28,7 +28,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: elf_rawfile.c 3712 2019-03-16 22:23:34Z jkoshy $");
 
 char *
 elf_rawfile(Elf *e, size_t *sz)

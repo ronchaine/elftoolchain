@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_abbrev.c 2072 2011-10-27 03:26:49Z jkoshy $");
 
 int
 dwarf_get_abbrev(Dwarf_Debug dbg, Dwarf_Unsigned offset,

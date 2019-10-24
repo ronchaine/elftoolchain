@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.ardiff 3609 2018-04-14 21:34:45Z jkoshy $
 
 TOP=	../../..
 

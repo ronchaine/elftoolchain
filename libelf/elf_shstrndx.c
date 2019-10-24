@@ -29,7 +29,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: elf_shstrndx.c 3174 2015-03-27 17:13:41Z emaste $");
 
 static int
 _libelf_getshdrstrndx(Elf *e, size_t *strndx)

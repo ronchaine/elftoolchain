@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: dwarf_nametbl.m4 2074 2011-10-27 03:34:33Z jkoshy $
  */
 
 define(`MAKE_NAMETBL_API',`

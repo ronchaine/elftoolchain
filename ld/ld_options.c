@@ -32,7 +32,7 @@
 #include "ld_options.h"
 #include "ld_output.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_options.c 3406 2016-02-14 17:45:43Z jkoshy $");
 
 /*
  * Support routines for parsing command line options.

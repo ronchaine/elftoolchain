@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: ld_ehframe.h 2960 2013-08-25 03:13:07Z kaiwang27 $
  */
 
 void	ld_ehframe_adjust(struct ld *, struct ld_input_section *);

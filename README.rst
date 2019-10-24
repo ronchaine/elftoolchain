@@ -119,7 +119,7 @@ website`_.
 
 .. _project website:  http://elftoolchain.sourceforge.net/
 
-.. $Id$
+.. $Id: README.rst 3677 2019-02-11 09:37:09Z jkoshy $
 
 .. Local Variables:
 .. mode: rst

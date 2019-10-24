@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: libpe.h 3312 2016-01-10 09:23:51Z kaiwang27 $
  */
 
 #ifndef	_LIBPE_H_

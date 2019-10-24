@@ -1,7 +1,7 @@
 #
 # Build TET from source.
 #
-# $Id$
+# $Id: Makefile 3595 2018-04-11 19:43:46Z jkoshy $
 #
 
 TOP=	../..

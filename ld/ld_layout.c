@@ -39,7 +39,7 @@
 #include "ld_symbols.h"
 #include "ld_strtab.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_layout.c 3276 2015-12-11 21:39:06Z kaiwang27 $");
 
 struct ld_wildcard_match {
 	char *wm_name;

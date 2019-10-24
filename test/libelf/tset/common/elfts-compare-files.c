@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: elfts-compare-files.c 1193 2010-09-12 05:43:52Z jkoshy $
  */
 
 #include <sys/types.h>

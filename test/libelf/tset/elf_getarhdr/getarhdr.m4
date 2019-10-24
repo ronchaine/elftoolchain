@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: getarhdr.m4 3622 2018-09-29 07:44:28Z jkoshy $
  */
 
 #include <sys/types.h>

@@ -1,7 +1,7 @@
 #
 # Rules for building programs.
 #
-# $Id$
+# $Id: elftoolchain.prog.mk 3773 2019-07-02 06:19:09Z jkoshy $
 
 .if !defined(TOP)
 .error	Make variable \"TOP\" has not been defined.

@@ -1,4 +1,4 @@
-# $Id$
+# $Id: addself-liba.sh 2095 2011-10-31 03:29:24Z jkoshy $
 inittest addself-liba tc/addself-liba
 extshar ${TESTDIR}
 extshar ${RLTDIR}

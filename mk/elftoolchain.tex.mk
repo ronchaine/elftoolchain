@@ -1,7 +1,7 @@
 #
 # Rules to build LateX documentation.
 #
-# $Id$
+# $Id: elftoolchain.tex.mk 3595 2018-04-11 19:43:46Z jkoshy $
 #
 
 .include "${TOP}/mk/elftoolchain.os.mk"

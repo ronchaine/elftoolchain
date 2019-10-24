@@ -30,7 +30,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: elf_next.c 3710 2019-03-12 09:42:35Z jkoshy $");
 
 Elf_Cmd
 elf_next(Elf *e)

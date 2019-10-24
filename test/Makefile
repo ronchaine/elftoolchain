@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile 3653 2018-12-25 12:31:28Z jkoshy $
 #
 # TET-based test suites used by the Elftoolchain project.
 #

@@ -1,7 +1,7 @@
 /*
  * Print the names of ELF sections.
  *
- * $Id$
+ * $Id: prog4.txt 3687 2019-02-22 07:55:09Z jkoshy $
  */
 
 #include <err.h>

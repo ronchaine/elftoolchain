@@ -1,6 +1,6 @@
 #
 # Rules for recursing into directories
-# $Id$
+# $Id: elftoolchain.subdir.mk 3720 2019-03-23 08:40:59Z jkoshy $
 
 # Pass down 'test' as a valid target.
 

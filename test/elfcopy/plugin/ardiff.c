@@ -12,7 +12,7 @@
  * By default, it compares nothing and consider the test "not ok"
  * iff it encounters errors while reading archive.
  *
- * $Id$
+ * $Id: ardiff.c 3366 2016-01-24 21:33:06Z jkoshy $
  */
 
 #include <archive.h>

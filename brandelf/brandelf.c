@@ -44,7 +44,7 @@
 
 #include "_elftc.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: brandelf.c 3440 2016-04-07 14:51:47Z emaste $");
 
 static int elftype(const char *);
 static const char *iselftype(int);

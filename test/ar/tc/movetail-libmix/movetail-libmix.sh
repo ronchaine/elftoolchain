@@ -1,4 +1,4 @@
-# $Id$
+# $Id: movetail-libmix.sh 2079 2011-10-27 04:10:55Z jkoshy $
 inittest movetail-libmix tc/movetail-libmix
 extshar ${TESTDIR}
 extshar ${RLTDIR}

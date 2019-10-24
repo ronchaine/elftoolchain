@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: strptr.m4 1380 2011-01-23 07:21:25Z jkoshy $
  */
 
 #include <errno.h>

@@ -1,4 +1,4 @@
-: $Id$
+: $Id: README 2080 2011-10-27 04:23:24Z jkoshy $
 
 ar(1) test suite depends on libarchive and uudecode(1). To install
 the dependencies under Debian/Ubuntu Linux:

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: version.m4 1339 2010-12-31 15:42:52Z jkoshy $
  */
 
 include(`elfts.m4')

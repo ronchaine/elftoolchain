@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: dwarf_die_query.c 3075 2014-06-23 03:08:57Z kaiwang27 $
  */
 
 #include <assert.h>

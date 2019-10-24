@@ -74,7 +74,7 @@
 # sections, a section index may be manually specified using a
 # 'sh_index' pseudo field.
 #
-# $Id$
+# $Id: elfc 3775 2019-07-07 16:57:10Z jkoshy $
 
 version     = "%prog 1.0"
 usage       = "usage: %prog [options] [input-file]"

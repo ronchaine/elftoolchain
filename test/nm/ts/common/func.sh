@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $Id$
+# $Id: func.sh 2378 2012-01-03 08:59:56Z jkoshy $
 
 test_format_bsd1()
 {

@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $Id$
+# $Id: run.sh 2091 2011-10-28 08:15:16Z jkoshy $
 #
 # Run all the tests.
 

@@ -28,7 +28,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libelf_checksum.c 3174 2015-03-27 17:13:41Z emaste $");
 
 static unsigned long
 _libelf_sum(unsigned long c, const unsigned char *s, size_t size)

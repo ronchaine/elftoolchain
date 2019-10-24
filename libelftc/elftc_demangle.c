@@ -33,7 +33,7 @@
 
 #include "_libelftc.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: elftc_demangle.c 3296 2016-01-09 14:17:28Z jkoshy $");
 
 static unsigned int
 is_mangled(const char *s, unsigned int style)

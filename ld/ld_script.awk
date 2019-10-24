@@ -2,7 +2,7 @@
 #
 # Usage: awk -f THIS-SCRIPT INPUT > OUTPUT
 #
-# $Id$
+# $Id: ld_script.awk 3593 2018-04-11 18:26:20Z jkoshy $
 
 BEGIN {
     # Generate a symbol name based on the last component

@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libdwarf_nametbl.c 3029 2014-04-21 23:26:02Z kaiwang27 $");
 
 void
 _dwarf_nametbl_cleanup(Dwarf_NameSec *nsp)

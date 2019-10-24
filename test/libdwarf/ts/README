@@ -1,4 +1,4 @@
-: $Id$
+: $Id: README 3072 2014-06-23 03:08:44Z kaiwang27 $
 
 Libdwarf test suite use XML files to describe test case, invocable
 component and test purpose.

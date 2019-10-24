@@ -37,7 +37,7 @@
 
 #include "ar.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: util.c 3174 2015-03-27 17:13:41Z emaste $");
 
 static void	bsdar_vwarnc(struct bsdar *, int code,
 		    const char *fmt, va_list ap);

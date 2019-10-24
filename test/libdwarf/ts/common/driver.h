@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: driver.h 3074 2014-06-23 03:08:53Z kaiwang27 $
  */
 
 #ifndef	_DRIVER_H_

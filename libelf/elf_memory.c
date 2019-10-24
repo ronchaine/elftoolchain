@@ -28,7 +28,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: elf_memory.c 3013 2014-03-23 06:16:59Z jkoshy $");
 
 Elf *
 elf_memory(char *image, size_t sz)

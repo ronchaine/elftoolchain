@@ -29,7 +29,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libelf_xlate.c 3732 2019-04-22 11:08:38Z jkoshy $");
 
 /*
  * Translate to/from the file representation of ELF objects.

@@ -1,4 +1,4 @@
-# $Id$
+# $Id: weaksymbol-libweak.sh 2079 2011-10-27 04:10:55Z jkoshy $
 inittest weaksymbol-libweak tc/weaksymbol-libweak
 extshar ${TESTDIR}
 extshar ${RLTDIR}

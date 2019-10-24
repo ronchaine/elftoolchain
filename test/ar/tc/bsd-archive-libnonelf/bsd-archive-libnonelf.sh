@@ -1,4 +1,4 @@
-# $Id$
+# $Id: bsd-archive-libnonelf.sh 2078 2011-10-27 04:04:27Z jkoshy $
 inittest bsd-archive-libnonelf tc/bsd-archive-libnonelf
 extshar ${TESTDIR}
 extshar ${RLTDIR}

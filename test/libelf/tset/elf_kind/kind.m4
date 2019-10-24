@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: kind.m4 1694 2011-08-02 04:34:35Z jkoshy $
  */
 
 #include <libelf.h>

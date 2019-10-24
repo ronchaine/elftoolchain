@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_seterror.c 2075 2011-10-27 03:47:28Z jkoshy $");
 
 #define	_SET_FIELD(R, F, V)					\
 	do {							\

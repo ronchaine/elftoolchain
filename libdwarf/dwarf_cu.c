@@ -27,7 +27,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_cu.c 3041 2014-05-18 15:11:03Z kaiwang27 $");
 
 int
 dwarf_next_cu_header_c(Dwarf_Debug dbg, Dwarf_Bool is_info,

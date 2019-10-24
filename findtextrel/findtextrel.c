@@ -38,7 +38,7 @@
 
 #include "_elftc.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: findtextrel.c 3461 2016-05-10 18:00:05Z emaste $");
 
 static struct option longopts[] = {
 	{"help", no_argument, NULL, 'H'},

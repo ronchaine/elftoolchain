@@ -29,7 +29,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: pe_section.c 3312 2016-01-10 09:23:51Z kaiwang27 $");
 
 PE_Scn *
 pe_getscn(PE *pe, size_t ndx)

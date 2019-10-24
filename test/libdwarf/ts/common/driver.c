@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: driver.c 3772 2019-07-02 06:09:48Z jkoshy $
  */
 
 #include <sys/types.h>

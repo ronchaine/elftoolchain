@@ -1,5 +1,5 @@
 #
-# $Id$
+# $Id: elftoolchain.components.mk 3607 2018-04-13 19:41:17Z jkoshy $
 #
 
 # Knobs to turn parts of the source tree on or off.

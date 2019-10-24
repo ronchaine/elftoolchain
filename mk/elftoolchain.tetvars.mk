@@ -1,7 +1,7 @@
 #
 # Configuration information for TET.
 #
-# $Id$
+# $Id: elftoolchain.tetvars.mk 2137 2011-11-10 13:09:30Z jkoshy $
 #
 
 .if !defined(TOP)

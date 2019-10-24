@@ -1,5 +1,5 @@
 #!/bin/sh
-# $Id$
+# $Id: acp.sh 2086 2011-10-27 05:18:01Z jkoshy $
 
 # This script is adapted from Jan Psota's Tar Comparison Program(TCP).
 

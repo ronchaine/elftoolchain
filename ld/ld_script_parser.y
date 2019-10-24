@@ -34,7 +34,7 @@
 #include "ld_path.h"
 #include "ld_exp.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_script_parser.y 3281 2015-12-11 21:39:23Z kaiwang27 $");
 
 struct yy_buffer_state;
 typedef struct yy_buffer_state *YY_BUFFER_STATE;

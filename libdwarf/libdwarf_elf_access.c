@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libdwarf_elf_access.c 2070 2011-10-27 03:05:32Z jkoshy $");
 
 int
 _dwarf_elf_get_section_info(void *obj, Dwarf_Half ndx,

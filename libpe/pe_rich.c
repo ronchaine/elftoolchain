@@ -29,7 +29,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: pe_rich.c 3312 2016-01-10 09:23:51Z kaiwang27 $");
 
 PE_RichHdr *
 pe_rich_header(PE *pe)

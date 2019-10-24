@@ -28,7 +28,7 @@
 #include "ld.h"
 #include "ld_script_parser.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_script_lexer.l 3385 2016-01-31 14:26:26Z jkoshy $");
 
 #define	YY_NO_UNPUT
 int lineno = 1;

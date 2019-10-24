@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
-# $Id$
+# $Id: versioning.yaml 2077 2011-10-27 03:59:40Z jkoshy $
 #
 # This file is used to test handling of sections with symbol
 # versioning information.

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: ld_utils.h 2908 2013-02-03 06:06:01Z kaiwang27 $
  */
 
 #define	READ_16(P,V)					\

@@ -1,5 +1,5 @@
 : README
-: $Id$
+: $Id: README 2055 2011-10-26 12:15:06Z jkoshy $
 
 This directory contains a test suite for libelf.
 

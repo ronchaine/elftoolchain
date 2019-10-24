@@ -39,7 +39,7 @@
 
 #include "ar.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: read.c 3629 2018-09-30 19:26:28Z jkoshy $");
 
 /*
  * Handle read modes: 'x', 't' and 'p'.

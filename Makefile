@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile 3781 2019-10-14 11:15:39Z jkoshy $
 
 TOP=	.
 
@@ -36,7 +36,6 @@ SUBDIR += nm
 SUBDIR += readelf
 SUBDIR += size
 SUBDIR += strings
-SUBDIR += tools
 
 # Build the test suites.
 .if exists(${.CURDIR}/test) && defined(WITH_TESTS) && ${WITH_TESTS} == "yes"

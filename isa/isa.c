@@ -38,7 +38,7 @@
 
 #include "_elftc.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: isa.c 2934 2013-03-30 01:40:49Z jkoshy $");
 
 /*
  * Option handling.

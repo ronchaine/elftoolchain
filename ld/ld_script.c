@@ -32,7 +32,7 @@
 #include "ld_symbols.h"
 #include "ld_output.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_script.c 3281 2015-12-11 21:39:23Z kaiwang27 $");
 
 static void _input_file_add(struct ld *ld, struct ld_script_input_file *ldif);
 static void _overlay_section_free(void *ptr);

@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libdwarf_lineno.c 3164 2015-02-19 01:20:12Z kaiwang27 $");
 
 static int
 _dwarf_lineno_add_file(Dwarf_LineInfo li, uint8_t **p, const char *compdir,

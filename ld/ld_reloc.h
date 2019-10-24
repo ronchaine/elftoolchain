@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: ld_reloc.h 2898 2013-01-15 23:05:59Z kaiwang27 $
  */
 
 struct ld_symbol;

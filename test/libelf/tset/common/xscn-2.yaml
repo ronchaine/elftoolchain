@@ -1,5 +1,5 @@
 %YAML 1.1
-# $Id$
+# $Id: xscn-2.yaml 2053 2011-10-26 11:50:18Z jkoshy $
 ---
 #
 # This file is used for tests requiring a well-formed ELF file that

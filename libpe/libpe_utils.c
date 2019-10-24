@@ -32,7 +32,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libpe_utils.c 3312 2016-01-10 09:23:51Z kaiwang27 $");
 
 off_t
 libpe_align(PE *pe, off_t off, size_t align)

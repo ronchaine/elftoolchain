@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_pro_macinfo.c 2074 2011-10-27 03:34:33Z jkoshy $");
 
 static int
 _dwarf_add_macro(Dwarf_P_Debug dbg, int type, Dwarf_Unsigned lineno,

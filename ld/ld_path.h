@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: ld_path.h 2930 2013-03-17 22:54:26Z kaiwang27 $
  */
 
 enum ld_path_type {

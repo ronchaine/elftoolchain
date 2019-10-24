@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: begin.m4 3706 2019-03-02 20:57:45Z jkoshy $
  */
 
 #include <sys/stat.h>

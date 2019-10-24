@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: ehdr_template.m4 3703 2019-03-02 20:41:03Z jkoshy $
  */
 
 include(`elfts.m4')

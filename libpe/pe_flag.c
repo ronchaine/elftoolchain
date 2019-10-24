@@ -28,7 +28,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: pe_flag.c 3312 2016-01-10 09:23:51Z kaiwang27 $");
 
 int
 pe_flag(PE *pe, PE_Cmd c, unsigned int flags)

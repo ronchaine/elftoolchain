@@ -1,4 +1,4 @@
-# $Id$
+# $Id: moveafter-liba-v.sh 2079 2011-10-27 04:10:55Z jkoshy $
 inittest moveafter-liba-v tc/moveafter-liba-v
 extshar ${TESTDIR}
 extshar ${RLTDIR}

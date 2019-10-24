@@ -30,7 +30,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: pe_update.c 3312 2016-01-10 09:23:51Z kaiwang27 $");
 
 off_t
 pe_update(PE *pe)

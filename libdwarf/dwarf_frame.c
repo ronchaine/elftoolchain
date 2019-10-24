@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_frame.c 3106 2014-12-19 16:00:58Z kaiwang27 $");
 
 int
 dwarf_get_fde_list(Dwarf_Debug dbg, Dwarf_Cie **cie_list,

@@ -41,7 +41,7 @@
 #include <sys/mman.h>
 #endif
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: elf_update.c 3763 2019-06-28 21:43:27Z emaste $");
 
 /*
  * Layout strategy:

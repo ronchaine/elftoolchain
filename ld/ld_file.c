@@ -29,7 +29,7 @@
 #include "ld_file.h"
 #include "ld_path.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_file.c 3281 2015-12-11 21:39:23Z kaiwang27 $");
 
 /*
  * Support routines for input file handling.

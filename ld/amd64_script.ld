@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: amd64_script.ld 2806 2012-12-24 08:23:59Z kaiwang27 $ */
 
 OUTPUT_FORMAT("elf64-x86-64", "elf64-x86-64", "elf64-x86-64")
 ENTRY(_start)

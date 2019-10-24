@@ -1,4 +1,4 @@
-# $Id$
+# $Id: arscript-3.sh 2078 2011-10-27 04:04:27Z jkoshy $
 inittest arscript-3 tc/arscript-3
 extshar ${TESTDIR}
 extshar ${RLTDIR}

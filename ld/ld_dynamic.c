@@ -37,7 +37,7 @@
 #include "ld_symver.h"
 #include "ld_strtab.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_dynamic.c 3384 2016-01-31 13:12:41Z jkoshy $");
 
 static void _check_dso_needed(struct ld *ld, struct ld_output *lo);
 static void _create_dynamic(struct ld *ld, struct ld_output *lo);

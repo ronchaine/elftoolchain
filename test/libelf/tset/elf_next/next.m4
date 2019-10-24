@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: next.m4 1622 2011-07-07 11:48:35Z jkoshy $
  */
 
 #include <libelf.h>

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: cntl.m4 2191 2011-11-21 08:34:02Z jkoshy $
  */
 
 #include <sys/types.h>

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: nextscn.m4 1385 2011-01-23 15:10:19Z jkoshy $
  */
 
 #include <ar.h>

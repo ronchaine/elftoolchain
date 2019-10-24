@@ -30,7 +30,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: pe_coff.c 3312 2016-01-10 09:23:51Z kaiwang27 $");
 
 PE_CoffHdr *
 pe_coff_header(PE *pe)

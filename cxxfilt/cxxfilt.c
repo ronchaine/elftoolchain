@@ -35,7 +35,7 @@
 
 #include "_elftc.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: cxxfilt.c 3499 2016-11-25 16:06:29Z emaste $");
 
 #define	STRBUFSZ	8192
 

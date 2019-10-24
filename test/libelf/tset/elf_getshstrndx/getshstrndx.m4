@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: getshstrndx.m4 1404 2011-02-05 07:51:28Z jkoshy $
  */
 
 #include <ar.h>

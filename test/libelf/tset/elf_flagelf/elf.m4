@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: elf.m4 1599 2011-07-04 03:18:52Z jkoshy $
  */
 
 #include <sys/types.h>

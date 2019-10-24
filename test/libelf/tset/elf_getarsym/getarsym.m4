@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: getarsym.m4 1407 2011-02-05 08:31:07Z jkoshy $
  */
 
 #include <sys/types.h>

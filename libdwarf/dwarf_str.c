@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_str.c 3295 2016-01-08 22:08:10Z jkoshy $");
 
 int
 dwarf_get_str(Dwarf_Debug dbg, Dwarf_Off offset, char **string,

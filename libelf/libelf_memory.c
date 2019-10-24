@@ -31,7 +31,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libelf_memory.c 3738 2019-05-05 21:49:06Z jkoshy $");
 
 /*
  * Create an ELF descriptor for a memory image, optionally reporting

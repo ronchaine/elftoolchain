@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: gelf.h 3174 2015-03-27 17:13:41Z emaste $
  */
 
 #ifndef	_GELF_H_

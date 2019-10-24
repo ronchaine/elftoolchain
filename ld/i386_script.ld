@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: i386_script.ld 2664 2012-11-04 08:39:22Z kaiwang27 $ */
 
 OUTPUT_FORMAT("elf32-i386", "elf32-i386", "elf32-i386")
 OUTPUT_ARCH(i386)

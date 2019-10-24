@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: elfts.h 1337 2010-12-31 15:38:31Z jkoshy $
  */
 
 #ifndef	_ELF_TS_H_

@@ -1,4 +1,4 @@
-# $Id$
+# $Id: elfcopy-noops-archive-2.sh 2081 2011-10-27 04:28:29Z jkoshy $
 inittest elfcopy-noops-archive-2 tc/elfcopy-noops-archive-2
 extshar ${TESTDIR}
 extshar ${RLTDIR}

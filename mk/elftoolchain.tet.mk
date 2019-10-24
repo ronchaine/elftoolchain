@@ -1,4 +1,4 @@
-# $Id$
+# $Id: elftoolchain.tet.mk 2844 2012-12-31 03:30:20Z jkoshy $
 #
 # Rules for handling TET based test suites.
 #

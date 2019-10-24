@@ -1,4 +1,4 @@
-# $Id$
+# $Id: movebefore-libmix.sh 2079 2011-10-27 04:10:55Z jkoshy $
 inittest movebefore-libmix tc/movebefore-libmix
 extshar ${TESTDIR}
 extshar ${RLTDIR}

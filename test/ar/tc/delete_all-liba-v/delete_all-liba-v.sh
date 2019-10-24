@@ -1,4 +1,4 @@
-# $Id$
+# $Id: delete_all-liba-v.sh 2079 2011-10-27 04:10:55Z jkoshy $
 inittest delete_all-liba-v tc/delete_all-liba-v
 extshar ${TESTDIR}
 extshar ${RLTDIR}

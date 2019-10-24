@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: ld_output.h 2959 2013-08-25 03:12:47Z kaiwang27 $
  */
 
 enum ld_output_element_type {

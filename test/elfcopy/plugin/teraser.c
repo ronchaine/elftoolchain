@@ -2,7 +2,7 @@
  * make it easy to `diff'.  (option -e)
  * 2. Check the sanity of timestamp. (option -c)
  *
- * $Id$
+ * $Id: teraser.c 3366 2016-01-24 21:33:06Z jkoshy $
  */
 
 #include <errno.h>

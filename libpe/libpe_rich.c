@@ -31,7 +31,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libpe_rich.c 3312 2016-01-10 09:23:51Z kaiwang27 $");
 
 static char *
 memfind(char *s, const char *find, size_t slen, size_t flen)

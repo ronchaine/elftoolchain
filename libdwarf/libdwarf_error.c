@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libdwarf_error.c 2070 2011-10-27 03:05:32Z jkoshy $");
 
 void
 _dwarf_set_error(Dwarf_Debug dbg, Dwarf_Error *error, int errorcode,

@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $Id$
+# $Id: count-ic 2084 2011-10-27 04:48:12Z jkoshy $
 #
 # This shell script generates ic_count.c which contains a single
 # variable definition `ic_count'. Variable `ic_count' is assigned

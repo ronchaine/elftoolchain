@@ -26,7 +26,7 @@
 
 #include "ld.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_error.c 2895 2013-01-15 23:05:31Z kaiwang27 $");
 
 /*
  * Support routines for error and warning message generation.

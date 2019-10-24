@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: ld_script.h 3281 2015-12-11 21:39:23Z kaiwang27 $
  */
 
 enum ld_script_cmd_type {

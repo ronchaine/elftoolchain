@@ -34,7 +34,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libpe_dos.c 3312 2016-01-10 09:23:51Z kaiwang27 $");
 
 int
 libpe_parse_msdos_header(PE *pe, char *hdr)

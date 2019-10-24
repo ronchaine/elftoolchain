@@ -37,7 +37,7 @@
 #include "ld_path.h"
 #include "ld_symbols.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_main.c 2959 2013-08-25 03:12:47Z kaiwang27 $");
 
 static struct ld _ld;
 struct ld* ld = &_ld;

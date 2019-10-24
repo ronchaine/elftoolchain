@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: dwarf_form.c 3084 2014-09-02 22:08:13Z kaiwang27 $
  */
 
 #include <assert.h>

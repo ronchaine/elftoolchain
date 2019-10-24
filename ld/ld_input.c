@@ -29,7 +29,7 @@
 #include "ld_input.h"
 #include "ld_symbols.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_input.c 2960 2013-08-25 03:13:07Z kaiwang27 $");
 
 /*
  * Support routines for input section handling.

@@ -27,7 +27,7 @@
 #include "ld.h"
 #include "ld_strtab.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: ld_strtab.c 3279 2015-12-11 21:39:16Z kaiwang27 $");
 
 #define	_DEFAULT_STRTAB_SIZE	512
 

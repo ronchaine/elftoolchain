@@ -30,7 +30,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libelf_msize.m4 3732 2019-04-22 11:08:38Z jkoshy $");
 
 /* WARNING: GENERATED FROM __file__. */
 

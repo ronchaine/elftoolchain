@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: pe.h 3441 2016-04-07 15:04:20Z emaste $
  */
 
 #ifndef	_PE_H_

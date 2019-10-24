@@ -33,7 +33,7 @@
 
 #include "_libpe.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libpe_section.c 3446 2016-05-03 01:31:17Z emaste $");
 
 PE_Scn *
 libpe_alloc_scn(PE *pe)

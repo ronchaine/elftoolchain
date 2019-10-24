@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: getscn.m4 1405 2011-02-05 07:53:03Z jkoshy $
  */
 
 #include <ar.h>

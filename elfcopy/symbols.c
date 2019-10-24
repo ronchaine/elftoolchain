@@ -34,7 +34,7 @@
 
 #include "elfcopy.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: symbols.c 3520 2017-04-17 01:47:52Z kaiwang27 $");
 
 /* Symbol table buffer structure. */
 struct symbuf {

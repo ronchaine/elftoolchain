@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_types.m4 2697 2012-11-24 17:12:36Z kaiwang27 $");
 
 /* WARNING: GENERATED FROM __file__. */
 

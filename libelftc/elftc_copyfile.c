@@ -37,7 +37,7 @@
 #include <sys/mman.h>
 #endif
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: elftc_copyfile.c 3297 2016-01-09 15:26:34Z jkoshy $");
 
 /*
  * Copy the contents referenced by 'ifd' to 'ofd'.  Returns 0 on

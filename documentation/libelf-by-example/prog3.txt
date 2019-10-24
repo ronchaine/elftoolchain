@@ -1,7 +1,7 @@
 /*
  * Print the ELF Program Header Table in an ELF object.
  *
- * $Id$
+ * $Id: prog3.txt 3686 2019-02-22 07:54:47Z jkoshy $
  */
 
 #include <err.h>

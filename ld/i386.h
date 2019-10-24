@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: i386.h 2500 2012-04-29 18:07:43Z kaiwang27 $
  */
 
 char *i386_script;

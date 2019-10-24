@@ -19,4 +19,4 @@ all:
 # Please also read the file "INSTALL" for additional information about
 # building the project from source.
 #
-# $Id$
+# $Id: GNUmakefile 2568 2012-09-04 12:13:21Z jkoshy $

@@ -26,7 +26,7 @@
 
 #include "_libdwarf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: dwarf_pro_die.c 2074 2011-10-27 03:34:33Z jkoshy $");
 
 Dwarf_Unsigned
 dwarf_add_die_to_debug(Dwarf_P_Debug dbg, Dwarf_P_Die first_die,

@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.tset 2077 2011-10-27 03:59:40Z jkoshy $
 
 # All the test cases in this test suite need -lelf.
 DPADD+=		${LIBELF}

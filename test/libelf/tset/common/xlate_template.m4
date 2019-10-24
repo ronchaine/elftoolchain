@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: xlate_template.m4 2053 2011-10-26 11:50:18Z jkoshy $
  */
 
 /*

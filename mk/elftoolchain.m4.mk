@@ -1,5 +1,5 @@
 #
-# $Id$
+# $Id: elftoolchain.m4.mk 2795 2012-12-19 12:39:09Z jkoshy $
 #
 
 # Implicit rules for the M4 pre-processor.

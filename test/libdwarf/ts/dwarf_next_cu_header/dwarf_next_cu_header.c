@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: dwarf_next_cu_header.c 3073 2014-06-23 03:08:49Z kaiwang27 $
  */
 
 #include <assert.h>

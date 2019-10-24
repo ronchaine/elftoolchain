@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id$
+ * $Id: getclass.m4 1358 2011-01-08 05:40:41Z jkoshy $
  */
 
 #include <fcntl.h>

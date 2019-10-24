@@ -29,7 +29,7 @@
 
 #include "_libelf.h"
 
-ELFTC_VCSID("$Id$");
+ELFTC_VCSID("$Id: libelf_shdr.c 3174 2015-03-27 17:13:41Z emaste $");
 
 void *
 _libelf_getshdr(Elf_Scn *s, int ec)

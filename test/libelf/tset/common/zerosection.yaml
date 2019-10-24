@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
-# $Id$
+# $Id: zerosection.yaml 2077 2011-10-27 03:59:40Z jkoshy $
 #
 # An ELF file containing a zero-sized section.
 

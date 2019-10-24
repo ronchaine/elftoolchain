@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $Id$
+# $Id: native-elf-format 3735 2019-04-25 19:44:47Z jkoshy $
 #
 # Find the native ELF format for a host platform by compiling a
 # test object and examining the resulting object.

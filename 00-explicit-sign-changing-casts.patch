@@ -1,0 +1,87 @@
+From 4e353065c78db11049d5d558d964307553031ae0 Mon Sep 17 00:00:00 2001
+From: Jari Ronkainen <ronchaine@gmail.com>
+Date: Thu, 24 Oct 2019 17:25:46 +0000
+Subject: [PATCH] Make sign-changing casts explicit
+
+Fixes clang build errors
+---
+ libelf/elf_data.c   |  5 +++--
+ libelf/elf_update.c | 11 ++++++-----
+ 2 files changed, 9 insertions(+), 7 deletions(-)
+
+diff --git a/libelf/elf_data.c b/libelf/elf_data.c
+index 6c6acb14..e7b03a56 100644
+--- a/libelf/elf_data.c
++++ b/libelf/elf_data.c
+@@ -39,7 +39,8 @@ elf_getdata(Elf_Scn *s, Elf_Data *ed)
+ {
+ 	Elf *e;
+ 	unsigned int sh_type;
+-	int elfclass, elftype;
++	int elfclass;
++	Elf_Type elftype;
+ 	size_t count, fsz, msz;
+ 	struct _Libelf_Data *d;
+ 	uint64_t sh_align, sh_offset, sh_size, raw_size;
+@@ -93,7 +94,7 @@ elf_getdata(Elf_Scn *s, Elf_Data *ed)
+ 	}
+ 
+ 	raw_size = (uint64_t) e->e_rawsize;
+-	if ((elftype = _libelf_xlate_shtype(sh_type)) < ELF_T_FIRST ||
++	if ((elftype = (Elf_Type)_libelf_xlate_shtype(sh_type)) < ELF_T_FIRST ||
+ 	    elftype > ELF_T_LAST || (sh_type != SHT_NOBITS &&
+ 	    (sh_offset > raw_size || sh_size > raw_size - sh_offset))) {
+ 		LIBELF_SET_ERROR(SECTION, 0);
+diff --git a/libelf/elf_update.c b/libelf/elf_update.c
+index d99a7bf9..71f4f39c 100644
+--- a/libelf/elf_update.c
++++ b/libelf/elf_update.c
+@@ -112,7 +112,8 @@ _libelf_compute_section_extents(Elf *e, Elf_Scn *s, off_t rc)
+ {
+ 	Elf_Data *d;
+ 	size_t fsz, msz;
+-	int ec, elftype;
++	int ec;
++	Elf_Type elftype;
+ 	uint32_t sh_type;
+ 	uint64_t d_align;
+ 	Elf32_Shdr *shdr32;
+@@ -141,7 +142,7 @@ _libelf_compute_section_extents(Elf *e, Elf_Scn *s, off_t rc)
+ 
+ 	assert(sh_type != SHT_NULL && sh_type != SHT_NOBITS);
+ 
+-	elftype = _libelf_xlate_shtype(sh_type);
++	elftype = (Elf_Type)_libelf_xlate_shtype(sh_type);
+ 	if (elftype < ELF_T_FIRST || elftype > ELF_T_LAST) {
+ 		LIBELF_SET_ERROR(SECTION, 0);
+ 		return (0);
+@@ -431,7 +432,7 @@ _libelf_insert_extent(struct _Elf_Extent_List *extents, int type,
+ 	ex->ex_start = start;
+ 	ex->ex_size = size;
+ 	ex->ex_desc = desc;
+-	ex->ex_type = type;
++	ex->ex_type = (enum elf_extent)type;
+ 
+ 	/* Insert the region descriptor into the list. */
+ 	if (prevt)
+@@ -721,7 +722,7 @@ _libelf_write_scn(Elf *e, unsigned char *nf, struct _Elf_Extent *ex)
+ 	off_t rc;
+ 	int ec, em;
+ 	Elf_Scn *s;
+-	int elftype;
++	Elf_Type elftype;
+ 	Elf_Data *d, dst;
+ 	uint32_t sh_type;
+ 	struct _Libelf_Data *ld;
+@@ -747,7 +748,7 @@ _libelf_write_scn(Elf *e, unsigned char *nf, struct _Elf_Extent *ex)
+ 	if (sh_type == SHT_NOBITS || sh_type == SHT_NULL || sh_size == 0)
+ 		return (rc);
+ 
+-	elftype = _libelf_xlate_shtype(sh_type);
++	elftype = (Elf_Type)_libelf_xlate_shtype(sh_type);
+ 	assert(elftype >= ELF_T_FIRST && elftype <= ELF_T_LAST);
+ 
+ 	sh_off = s->s_offset;
+-- 
+2.23.0
+

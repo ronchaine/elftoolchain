@@ -1,7 +1,7 @@
 Elftoolchain
 ============
 
-Go to [elftoolchain.sourceforge.net](project website) for details.
+Go to [project website](elftoolchain.sourceforge.net) for details.
 
 This repository is mostly here because I wanted clang-buildable
 version somewhere where it's easy to reach.
